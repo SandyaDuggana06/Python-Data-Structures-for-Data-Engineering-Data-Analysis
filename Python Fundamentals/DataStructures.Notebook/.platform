@@ -1,0 +1,12 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Notebook",
+    "displayName": "DataStructures",
+    "description": "this notebook has many exercises on the below data structures\n\n•\tlist \n•\ttuple \n•\tset \n•\tdictionary \n•\tnested dictionaries \n•\tnested lists \n•\tlist comprehensions \n•\tdictionary comprehensions \n•\tunpacking \n•\tenumerate \n•\tzip \n•\tsorted \n•\tmin/max \n•\tany/all \n"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "d446d2c6-06cc-a0d0-4150-9f0887aa202f"
+  }
+}
